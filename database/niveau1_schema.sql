@@ -1,0 +1,2 @@
+ALTER TABLE plat ADD COLUMN description VARCHAR(255);
+ALTER TABLE plat ADD COLUMN disponible
